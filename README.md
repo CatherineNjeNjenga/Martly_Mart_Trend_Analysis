@@ -1,19 +1,19 @@
-# OneStop Electronics E-Commerce Analysis
+# Martly Mart E-Commerce Analysis
 
 ## Company Background
 
 <img width="1000" height="235" alt="martly-mart-logo-large" src="https://github.com/user-attachments/assets/42f260c5-8335-4505-b305-8d1b40155de5" />
 
-Founded in 2013, Mealime is a meal planning and home cooking application that provides meal plans, grocery lists, and recipes tailored to users' dietary preferences. 
-Mealime helps users in meal pl# OneStop Electronics E-Commerce Analysisanning for cooking through its online platform and mobile app. Users need to set their food preferences by selecting the diet type like pescatarian, paleo vegetarian, low carbs, or allergens and other preferences. The app then displays recipes along with step-by-step cooking instruction, ingredient list, and required cookware. Curates a list of grocery items based on the recipes selected. The online platform features a community dashboard for users to share cooking tips. The app is available for iOS and Android. The app is free to download, and extra features can be subscribed for $39.99USD/month (basic), $79.99USD/month (standard) or $149.99USD/month (premium).
+Founded in 2013, Martly Mart is a meal planning and home cooking application that provides meal plans, grocery lists, and recipes tailored to users' dietary preferences. 
+Martly Mart helps users in meal pl# OneStop Electronics E-Commerce Analysisanning for cooking through its online platform and mobile app. Users need to set their food preferences by selecting the diet type like pescatarian, paleo vegetarian, low carbs, or allergens and other preferences. The app then displays recipes along with step-by-step cooking instruction, ingredient list, and required cookware. Curates a list of grocery items based on the recipes selected. The online platform features a community dashboard for users to share cooking tips. The app is available for iOS and Android. The app is free to download, and extra features can be subscribed for $39.99USD/month (basic), $79.99USD/month (standard) or $149.99USD/month (premium).
 
 <details>
   <summary>Project Goals</summary>
 <br /> 
-Mealime has been collecting data on a variety of key elements, including subscriptions, customer information, customer churn status, pricing plans, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
+Martly Mart has been collecting data on a variety of key elements, including subscriptions, customer information, customer churn status, pricing plans, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
 <br /> 
 <br /> 
-In cleaning and analyzing Mealime's data, meaningful insights can be extracted from the dataset to support the company’s various teams—including finance, sales, product, and marketing. By providing actionable data insights, our aim is to improve operational efficiencies and drive better decision-making, ultimately helping Mealime optimize its processes and deliver superior products globally. 
+In cleaning and analyzing Martly Mart's data, meaningful insights can be extracted from the dataset to support the company’s various teams—including finance, sales, product, and marketing. By providing actionable data insights, our aim is to improve operational efficiencies and drive better decision-making, ultimately helping Martly Mart optimize its processes and deliver superior products globally. 
 </details>
 
 <details>
@@ -58,7 +58,7 @@ In cleaning and analyzing Mealime's data, meaningful insights can be extracted f
 <!--
 - **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
 
-- However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, Mealime  experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
+- However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, Martly Mart  experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
 - The loyalty program, introduced in 2019, has shown promising growth potential. While non-loyalty members initially outperformed loyalty members in sales, the trend reversed in recent years, with loyalty members now leading in sales, order volume, and AOV evening out. Retaining and optimizing the program could drive future growth
 
@@ -66,7 +66,7 @@ In cleaning and analyzing Mealime's data, meaningful insights can be extracted f
 -->
 
 <!--
-The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable Mealime  to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
+The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable Martly Mart  to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
 -->
 
 # Insights Deep Dive
@@ -80,7 +80,7 @@ The following analysis will provide key insights to help guide the company’s s
 #### Sales Revenue
 - **Entire Period (2024-2025):** On average, monthly revenue grew by 0.2%, generating average monthly revenue of $392K.
 <!--
-- **COVID Era Growth:** From January 2019 to December 2020, Mealime  averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
+- **COVID Era Growth:** From January 2019 to December 2020, Martly Mart  averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
 - **Post-COVID:** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
 -->
 #### AOV
@@ -94,7 +94,7 @@ The following analysis will provide key insights to help guide the company’s s
 
 <!--
 #### Sales Revenue
-- From **January 2019 to December 2020**, Mealime  experienced steady growth in sales revenue, **averaging** a **7% monthly increase**. This growth led to a **peak** monthly revenue of **$1.2M** in **December 2020**. For comparison, the average monthly growth rate for the **entire period** (2019-2022) was **1.4%**, with an average monthly revenue of **$585K**.
+- From **January 2019 to December 2020**, Martly Mart  experienced steady growth in sales revenue, **averaging** a **7% monthly increase**. This growth led to a **peak** monthly revenue of **$1.2M** in **December 2020**. For comparison, the average monthly growth rate for the **entire period** (2019-2022) was **1.4%**, with an average monthly revenue of **$585K**.
 - Following this peak, the company experienced two consecutive months of decline: **-18%** in **January 2021** and **-31%** in **February 2021**. Since December 2020, sales have generally declined, with the largest drop occurring in **October 2022 (-55%)**, where sales fell to **$178K**
 - Despite the overall downward trend, there were moments of recovery. From **June to September 2021**, sales grew by **10% monthly** on average, and a **36% spike** occurred from **November to December 2021**
 
@@ -310,8 +310,8 @@ To explore more trends use the interactive Tableau workbook [here](https://)
 
 ## Appendix
 -  For more details about the dataset and the data cleaning process check out the [ERD](https://github.com/user-attachments/assets/31778750-444f-4955-b73f-fc152ed77e35)  and the [Dataset Summary & Issue Log](https://drive.google.com/file/d/16kxh6qG9sHhr-ZR1ZikRC5AjvIbR3Uq5/view?usp=sharing)
--  Check out the full Excel [spreadsheet](https://github.com/m-scharlat/Mealime_Trend_Analysis/blob/main/Excel/Mealime_Analysis.xlsb)
--  See more of my [exploration](https://github.com/m-scharlat/Mealime_Trend_Analysis/blob/main/SQL/Mealime_exploration.sql) and [analysis](https://github.com/m-scharlat/Mealime_Trend_Analysis/blob/main/SQL/Mealime_analysis.sql) in SQL
+-  Check out the full Excel [spreadsheet](https://github.com/m-scharlat/Martly Mart_Trend_Analysis/blob/main/Excel/Martly Mart_Analysis.xlsb)
+-  See more of my [exploration](https://github.com/m-scharlat/Martly Mart_Trend_Analysis/blob/main/SQL/Martly Mart_exploration.sql) and [analysis](https://github.com/m-scharlat/Martly Mart_Trend_Analysis/blob/main/SQL/Martly Mart_analysis.sql) in SQL
 
 
 
