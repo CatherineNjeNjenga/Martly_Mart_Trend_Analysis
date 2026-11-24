@@ -1,8 +1,9 @@
-# Mealime Subscription Analysis
+<img width="460" height="108" alt="martly-mart-logo (1)" src="https://github.com/user-attachments/assets/8c767852-e5f3-4920-b79f-3d16262aa35d" /># Mealime Subscription Analysis
 
 ## Company Background
 
-  
+![Upload<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 15 920 215" width="460" height="108" role="img" aria-label="Martly Mart logo" xmlns:c2pa="http://c2pa.org/manifest">
+
 Founded in 2013, Mealime is a meal planning and home cooking application that provides meal plans, grocery lists, and recipes tailored to users' dietary preferences. 
 Mealime helps users in meal planning for cooking through its online platform and mobile app. Users need to set their food preferences by selecting the diet type like pescatarian, paleo vegetarian, low carbs, or allergens and other preferences. The app then displays recipes along with step-by-step cooking instruction, ingredient list, and required cookware. Curates a list of grocery items based on the recipes selected. The online platform features a community dashboard for users to share cooking tips. The app is available for iOS and Android. The app is free to download, and extra features can be subscribed for $39.99USD/month (basic), $79.99USD/month (standard) or $149.99USD/month (premium).
 
