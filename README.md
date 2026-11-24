@@ -121,8 +121,6 @@ The following analysis will provide key insights to help guide the company’s s
 
 <p align="center" width="100%">
   <img width="1199" height="599" alt="Products Trends (4)" src="https://github.com/user-attachments/assets/7155982e-9c44-42a7-b7de-b2316972fcda" />
-
-<img src="https://github.com/user-attachments/assets/48223ff5-db3a-432f-ad17-198600d68ac1">
 </p>
 
 - **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively
