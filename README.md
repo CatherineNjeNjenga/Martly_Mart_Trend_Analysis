@@ -80,19 +80,19 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 #### Sales Revenue
-- **Entire Period (2024-2025):** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $392K.
+- **Entire Period (2024-2025):** On average, monthly revenue grew by 0.2%, generating average monthly revenue of $392K.
 <!--
 - **COVID Era Growth:** From January 2019 to December 2020, Mealime  averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
 - **Post-COVID:** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
 -->
 #### AOV
-- **Entire Period (2019-2022):** AOV on average was $253 per month, with an average monthly growth rate of 0.3%
-- **Peaks & Valleys in AOV**: AOV saw its highest level at $322 per order in October 2020 but dropped to a low of $217 by October 2022
+- **Entire Period (2024-2025):** AOV on average was $78 per month, with an average monthly growth rate of 0.3%
+- **Peaks & Valleys in AOV**: AOV saw its highest level at $113 per order in December 2024 but dropped to a low of $63 by February 2025
 
 #### Order Count
 - **Order count** trends closely followed sales revenue
-- **Entire Period (2019-2022):** The average monthly growth rate for orders was 1.1% with an average of 2K orders per month
-- **Peaks & Valleys in Order Count**: The company saw its highest order volume in December 2020, with 4K orders, but by October 2022 it reached its lowest with 825 orders
+- **Entire Period (2019-2022):** The average monthly growth rate for orders was 0.1% with an average of 5K orders per month
+- **Peaks & Valleys in Order Count**: The company saw its highest order volume in August 2025, with 5.2K orders, but by February 2025 it reached one of its lowest with 4.7K orders
 
 <!--
 #### Sales Revenue
