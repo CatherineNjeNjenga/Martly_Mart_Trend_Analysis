@@ -157,8 +157,6 @@ The following analysis will provide key insights to help guide the company’s s
 
 <p align="center" width="100%">
   <img width="1199" height="599" alt="Geographical Trends (1)" src="https://github.com/user-attachments/assets/3d7fe72d-4f5b-47e2-9240-c0c7607e5326" />
-
-<img src="https://github.com/user-attachments/assets/f1c5540c-0f94-40b0-b8c7-bb869295899e" height="95%" width="95%">
 </p>
 
 - **Top Performing Country:** The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
