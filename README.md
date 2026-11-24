@@ -41,8 +41,7 @@ In cleaning and analyzing Martly Mart's data, meaningful insights can be extract
     - [Historical & Seasonal Trends](#historical-trends)
     - [Product Trends](#product-trends)
     - [Geographical Trends](#geographical-trends)
-    - [Loyalty Program](#loyalty-program)
-    - [Refund Rates](#refund-rates)
+       - [Refund Rates](#refund-rates)
       - [Spotlight: Apple Products](#spotlight-apple-products)
 - [Recommendations](#recommendations)
 - [Appendix](#appendix)
@@ -167,15 +166,8 @@ The following analysis will provide key insights to help guide the company’s s
 - **Top Performing Country:** The United States is the company's top-performing country, driving 39% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
 - **Top 5 Countries: ** The top 10 countries by sales revenue account for approximately 75% of total sales. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Germany**, and **France**
 - **AOV Performance:** Among these top 5 countries, France ($119) and Mexico ($115) have the highest AOV, while India has the lowest AOV at $56
-
+<!--
  
-# Loyalty Program
-
-> ### Should the company keep the loyalty program?
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/35f31e7e-77d3-4dcc-a6e6-949a29c85b14" height="100%" width="100%"> <!--https://github.com/user-attachments/assets/b3d0103b-fe83-4678-93c0-26669082ae15-->
-</p>
-
 <!--https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b-->
 <!--
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
