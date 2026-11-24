@@ -218,8 +218,11 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 ## Spotlight: Apple Products 
 
 <p align="center" width="100%">
+  <img width="1199" height="599" alt="Refund Rates" src="https://github.com/user-attachments/assets/bafb80b6-2919-4075-919e-909af0536bcd" />
+
 <img src="https://github.com/user-attachments/assets/def731a2-4004-476c-9604-12d6c5811fc6">
 </p>
+
 
 #### Refund Metrics: 
 - Apple products have an overall refund rate of 5.9%, totaling slightly over 3K refunds
