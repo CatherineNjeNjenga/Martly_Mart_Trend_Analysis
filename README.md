@@ -120,6 +120,8 @@ The following analysis will provide key insights to help guide the company’s s
 # Product Trends
 
 <p align="center" width="100%">
+  <img width="1199" height="599" alt="Products Trends (4)" src="https://github.com/user-attachments/assets/7155982e-9c44-42a7-b7de-b2316972fcda" />
+
 <img src="https://github.com/user-attachments/assets/48223ff5-db3a-432f-ad17-198600d68ac1">
 </p>
 
