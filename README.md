@@ -142,7 +142,7 @@ The following analysis will provide key insights to help guide the company’s s
 
 # Geographical Trends
 
-> ### Martly operates in 10 countries
+> ### Martly Mart operates in 10 countries
 
 <!--
 ## Regional 
@@ -164,7 +164,6 @@ The following analysis will provide key insights to help guide the company’s s
 <p align="center" width="100%">
   <img width="1199" height="599" alt="Geographical Trends (1)" src="https://github.com/user-attachments/assets/3d7fe72d-4f5b-47e2-9240-c0c7607e5326" />
 </p>
-
 - **Top Performing Country:** The United States is the company's top-performing country, driving 39% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
 - **Top 5 Countries: ** The top 10 countries by sales revenue account for approximately 75% of total sales. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Germany**, and **France**
 - **AOV Performance:** Among these top 5 countries, France ($119) and Mexico ($115) have the highest AOV, while India has the lowest AOV at $56
