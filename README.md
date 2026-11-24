@@ -7,7 +7,7 @@
 
   <!-- Wordmark -->
   <text x="225" y="170" font-family="Rockwell, 'Roboto Slab', 'Zilla Slab', Georgia, serif"
-        font-size="104" font-weight="700" fill="#4a4a4a">martly mart</text>
+        font-size="104" font-weight="700" fill="#4a4a4a">
 <img width="1350" height="249" alt="mealime-logo-transparent-smaller-text" src="https://github.com/user-attachments/assets/0f487e00-53e9-468a-bb5d-f13a956a6ac2" />
 
 
