@@ -56,13 +56,16 @@ In cleaning and analyzing Mealime's data, meaningful insights can be extracted f
 
 **Martly'** total sales from **2024 to 2025** reached **$9M**, with **120K total orders**. The company's **average order value (AOV)** across all years stands at **$78 per order**.
 
-- In both **2024 and 2025**, the company experienced a **significant spike in sales** towards the end of year. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
+- In both **2024 and 2025**, the company experienced a **significant spike in sales** towards the end of year.
+<!--
+- **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
 
 - However, since 2020, the company has struggled to sustain the high sales levels seen during the pandemic. As global activities returned to normal, Mealime  experienced **a decline in YoY growth**, with **sales revenue dropping by 10% in 2021** and a sharper decline of **46% in 2022**. **AOV and order count** have also followed a **similar trend**
 
 - The loyalty program, introduced in 2019, has shown promising growth potential. While non-loyalty members initially outperformed loyalty members in sales, the trend reversed in recent years, with loyalty members now leading in sales, order volume, and AOV evening out. Retaining and optimizing the program could drive future growth
 
 - The Apple iPhone presents a strong opportunity for revenue growth. Despite low sales, its high AOV of $741 indicates untapped potential. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
+-->
 
 <!--
 The following analysis will provide key insights to help guide the company’s strategy moving forward, focusing on areas like geographical trends, product mix, and loyalty program performance. These insights will enable Mealime  to take informed action and identify new opportunities for growth and efficiency as the company navigates post-pandemic challenges.
@@ -77,10 +80,11 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 #### Sales Revenue
-- **Entire Period (2019-2022):** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
+- **Entire Period (2024-2025):** On average, monthly revenue grew by 1.4%, generating average monthly revenue of $392K.
+<!--
 - **COVID Era Growth:** From January 2019 to December 2020, Mealime  averaged 7% monthly revenue growth peaking in December with $1.2M generated in monthly revenue 
 - **Post-COVID:** Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), where monthly sales fell to $178K
-
+-->
 #### AOV
 - **Entire Period (2019-2022):** AOV on average was $253 per month, with an average monthly growth rate of 0.3%
 - **Peaks & Valleys in AOV**: AOV saw its highest level at $322 per order in October 2020 but dropped to a low of $217 by October 2022
