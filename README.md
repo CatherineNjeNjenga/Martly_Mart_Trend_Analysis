@@ -76,6 +76,8 @@ The following analysis will provide key insights to help guide the company’s s
 ### Historical Trends
 
 <p align="center" width="100%">
+  <img width="1199" height="599" alt="Historical Trends" src="https://github.com/user-attachments/assets/2cffbe18-d4eb-4bdc-81a9-0d155f436d3e" />
+
   <img width="1199" height="599" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f59da9d1-0112-428a-a9ae-892460aa6ed9" />
 </p>
 
