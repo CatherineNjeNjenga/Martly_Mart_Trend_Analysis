@@ -74,10 +74,6 @@ The following analysis will provide key insights to help guide the company’s s
 
 <p align="center" width="100%">
   <img width="1199" height="599" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f59da9d1-0112-428a-a9ae-892460aa6ed9" />
-  <img width="1199" height="599" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/bc0dcba5-f543-4ecc-a79f-f86d3ca182b5" />
-
-
-<img src="https://github.com/user-attachments/assets/3429f875-b034-4e89-96df-4c221ed4b8ff">
 </p>
 
 #### Sales Revenue
