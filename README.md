@@ -7,6 +7,8 @@
 Founded in 2013, Martly Mart is a meal planning and home cooking application that provides meal plans, grocery lists, and recipes tailored to users' dietary preferences. 
 Martly Mart helps users in meal pl# OneStop Electronics E-Commerce Analysisanning for cooking through its online platform and mobile app. Users need to set their food preferences by selecting the diet type like pescatarian, paleo vegetarian, low carbs, or allergens and other preferences. The app then displays recipes along with step-by-step cooking instruction, ingredient list, and required cookware. Curates a list of grocery items based on the recipes selected. The online platform features a community dashboard for users to share cooking tips. The app is available for iOS and Android. The app is free to download, and extra features can be subscribed for $39.99USD/month (basic), $79.99USD/month (standard) or $149.99USD/month (premium).
 
+Founded in 2013, Martly Mart is a global e-commerce company specializing in every day essentials. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide and recently launched a free app. The company leverages multiple marketing channels—email campaigns and it's recently launched app to reach its expanding customer base. As the business scales, Martly Mart continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
+
 <details>
   <summary>Project Goals</summary>
 <br /> 
