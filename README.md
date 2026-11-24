@@ -91,7 +91,7 @@ The following analysis will provide key insights to help guide the company’s s
 
 #### Order Count
 - **Order count** trends closely followed sales revenue
-- **Entire Period (2019-2022):** The average monthly growth rate for orders was 0.1% with an average of 5K orders per month
+- **Entire Period (2024-2025):** The average monthly growth rate for orders was 0.1% with an average of 5K orders per month
 - **Peaks & Valleys in Order Count**: The company saw its highest order volume in August 2025, with 5.2K orders, but by February 2025 it reached one of its lowest with 4.7K orders
 
 <!--
@@ -116,10 +116,10 @@ The following analysis will provide key insights to help guide the company’s s
 </p> 
 
 #### Key Trends
-- **Best Performing Months:** January, September, and December consistently see the most revenue and number of orders
-- **Worst Performing Months:** In contrast, sales and order counts tend to dip in February, June, and October, with February and October typically seeing a 25% decline from the previous month
-- **Fall Season AOV Trend:** The data show a seasonal 7% increase in AOV during the fall months (August-October)
-- **End-of-Year Sales Surge:** November and December consistently deliver a surge in revenue, with average monthly increases of 18% and 23% respectively
+- **Best Performing Months:** October, November, and December consistently see the most revenue
+- **Worst Performing Months:** In contrast, sales and order counts tend to dip in February, June, and September, with February typically seeing a 15% decline from the previous month
+- **Autumn Season AOV Trend:** The data show a seasonal 14% increase in AOV during the autumn months (October-December)
+- **End-of-Year Sales Surge:** November and December consistently deliver a surge in revenue, with average monthly increases of 21% and 10% respectively
 
 # Product Trends
 
@@ -127,20 +127,22 @@ The following analysis will provide key insights to help guide the company’s s
   <img width="1199" height="599" alt="Products Trends (4)" src="https://github.com/user-attachments/assets/7155982e-9c44-42a7-b7de-b2316972fcda" />
 </p>
 
-- **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively
-- **Most Expensive Products (AOV):** MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV
-- **Most Ordered Products:** Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders
-- **Weakest Product:** Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124
+- **Highest Grossing Products Category:** Electronics, Jewelry, and Automotive for 53% of total sales, generating $2.5M, $1.3M, and $1M respectively
+- **Most Expensive Products Category (AOV):): ** Electronics ($448), Jewelry ($197), and Automative ($163) lead products in terms of AOV
+- **Most Ordered Products Category: ** Health lead in order volume with 428 orders, followed by Sports with 382 orders, and Food and Grocery with 377 orders
+- **Weakest Product:** Across all metrics, Books underperformed, with just 7K in total sales, 219 orders, and an AOV of $34
 
+<!--
 #### Apple iPhone's Untapped Sales Potential
 
 - Despite low sales and order counts, the **Apple iPhone** consistently ranks **third-highest in AOV**, with an **all-time AOV of $741**, indicating possible **untapped potential**
 - A deeper analysis across more granular time periods shows the iPhone maintains a high AOV, with a **monthly average of $737**. 
 - Given the popularity of other **Apple** products sold by the company, focusing on strategies to increase iPhone sales could provide a valuable opportunity to **significantly boost company revenue**
+-->
 
 # Geographical Trends
 
-> ### Mealime  operates across four regions and 194 countries
+> ### Martly operates in 10 countries
 
 <!--
 ## Regional 
@@ -163,9 +165,9 @@ The following analysis will provide key insights to help guide the company’s s
   <img width="1199" height="599" alt="Geographical Trends (1)" src="https://github.com/user-attachments/assets/3d7fe72d-4f5b-47e2-9240-c0c7607e5326" />
 </p>
 
-- **Top Performing Country:** The United States is the company's top-performing country, driving 47% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
-- **Top 10 Countries:** The top 10 countries by sales revenue account for approximately 80% of total sales. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Japan**, **Germany**, **Australia**, **Brazil**, **France**, **Spain**, and **the Netherlands**
-- **AOV Performance:** Among these top 10 countries, Japan ($393) and the Netherlands ($289) have the highest AOV, while Spain has the lowest AOV at $223
+- **Top Performing Country:** The United States is the company's top-performing country, driving 39% of total sales, and is the primary contributor to North America's dominance in both sales revenue and order count
+- **Top 5 Countries: ** The top 10 countries by sales revenue account for approximately 75% of total sales. These countries, ranked by sales revenue, are: **United States**, **United Kingdom**, **Canada**, **Germany**, and **France**
+- **AOV Performance:** Among these top 5 countries, France ($119) and Mexico ($115) have the highest AOV, while India has the lowest AOV at $56
 
  
 # Loyalty Program
@@ -176,7 +178,7 @@ The following analysis will provide key insights to help guide the company’s s
 </p>
 
 <!--https://github.com/user-attachments/assets/57d9faa4-8884-4bcc-b714-8c6da342662b-->
-
+<!--
 The company introduced a loyalty program in 2019 to incentivize customers to make more frequent purchases. Five years later, they are evaluating whether to continue the program.
 
 ### Key Insights:
@@ -196,13 +198,13 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 
 # Refund Rates
 
-**Overall Refund Rate:** The company-wide refund rate was **5%**, with **5,377 refunds** out of **108K orders**, totaling **$2.1M** in refunded sales
+**Overall Refund Rate:** The company-wide refund rate was **7%**, with **17,139 refunds** out of **00K orders**, totaling **$1.5M** in refunded sales
 
 ## Across All Products
 
-- **Highest Refund Rates:** ThinkPad (11.7%), MacBook Air (11.4%), and Apple iPhone (7.6%) had the highest refund rates
-- **Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
-- **Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
+- **Highest Refund Rates: ** Health (9%), Sports (8%), and Food & Grocery (8%) had the highest refund rates
+- **Most Frequent Refunds: ** Health and the Sports Category were refunded most often, with 1.5K and 1.3K refunds, respectively
+- **Highest Total Refund Amounts: ** Automotive ($500K), Jewelry ($400K), and Electronics ($300K) recorded the highest total refunded sales
 
 <!--
 ### Least Refunded Products:
@@ -218,7 +220,7 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 - More than **75%** of all refunds occurred **before 2021** with 18% in 2019 and 58% in 2020
 - 2022 had no refunds
 -->
-
+<!--
 ## Spotlight: Apple Products 
 
 <p align="center" width="100%">
@@ -242,16 +244,17 @@ Although the data does not provide a decisive conclusion about the loyalty progr
 Based on the analysis and insights, the team recommends the following: 
 
 ### Seasonal Promotions
-Given seasonal trends, we recommend Mealime  considers implementing strategic promotions to either capitalize on or counteract these patterns. Some suggestions include:
+Given seasonal trends, we recommend Martly considers implementing strategic promotions to either capitalize on or counteract these patterns. Some suggestions include:
 
-- **Fall Savings Event**: Use bundled discounts on high-AOV items like the iPhone and MacBook Air, with a “Buy More, Save More” approach to drive higher-value purchases
-- **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (chargers, headphones, etc.) and free shipping to boost order volume
-- **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering loyalty members early access and extra discounts to increase engagement
+- **Autumn Savings Event**: Use bundled discounts on high-AOV items like Electronics, Jewelry and Automotive category, with a “Buy More, Save More” approach to drive higher-value purchases
+- **Summer Essentials Sale**: Combat the summer sales lull with discounts on essentials (Food & Grocery, Beauty, Health etc.) and free shipping to boost order volume
+- **End-of-Year Clearance**: Run a November-December clearance on prior-year models, offering email subscribed customers with early access and extra discounts to increase engagement
 
 ### Product Lineup
-- **Bose Soundsport**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement
+- **Books Category**'s consistently poor performance across all years and metrics warrants consideration for removal or replacement
 - Work with product and sales teams to evaluate its viability and explore potential alternatives to optimize the product portfolio
 
+<!--
 ### Strategies to Boost iPhone Sales
 
 To capitalize on the Apple iPhone’s high average order value (AOV) and untapped growth potential, the following strategies are recommended:
@@ -264,9 +267,9 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 ### Loyalty Program
 - The performance of the loyalty program has been steadily improving, and it is recommended to **retain** the program while closely monitoring its results over the next few years
 - To **boost engagement**, the company should consider introducing additional **benefits** and **targeted discounts** for loyalty members such as exclusive promotions and early access to new products
-
+-->
 ### Refund Rates
-- Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops with a focus on reducing the amount of refunds associated with Apple products
+- Collaborate with the product team to investigate the high refund rates of the Health and Sports Category with a focus on reducing the amount of refunds associated with these products
 
 <!--
 # Appendix: Tables & Graphs
@@ -298,12 +301,12 @@ The company should track the effectiveness of these campaigns closely, evaluatin
 > </p>
 </details
 -->
+<!--
 # Dashboard
 
-To explore more trends use the interactive Tableau workbook [here](https://public.tableau.com/app/profile/mayer.scharlat/viz/MealimeElectronic-SalesDashboard/SalesDashboard)
+To explore more trends use the interactive Tableau workbook [here](https://)
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/53e54652-233c-4dd3-8409-f50778f7f576">
 
 </p>
 
