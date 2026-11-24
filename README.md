@@ -54,7 +54,7 @@ In cleaning and analyzing Mealime's data, meaningful insights can be extracted f
   <img width="954" height="465" alt="Monthly Sales (19)" src="https://github.com/user-attachments/assets/11f5e0e0-e35a-4244-9b2f-84aa86c083f4" />
 </p>
 
-**Mealime '** total sales from **2019 to 2022** reached **$28M**, with **108K total orders**. The company's **average order value (AOV)** across all years stands at **$260 per order**.
+**Martly'** total sales from **2024 to 2025** reached **$9M**, with **120K total orders**. The company's **average order value (AOV)** across all years stands at **$78 per order**.
 
 - In **2020**, the company experienced a **significant spike in sales** across all metrics. **Sales revenue more than doubled** to **$10M**, driven by a **twofold increase in order volume** (**34K orders**). **MacBook Air** sales were the main product driver of this spike, growing **384%** from 2019-2020. **March 2020** marked the **highest month-over-month (MoM) growth** in the company's history, with a **50% increase in sales**. This surge can likely be attributed to the impact of increased demand due to COVID-19 and the resulting lockdowns
 
