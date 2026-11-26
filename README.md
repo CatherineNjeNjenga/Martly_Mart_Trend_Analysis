@@ -108,6 +108,8 @@ The following analysis will provide key insights to help guide the company’s s
 ### Seasonal Trends
 
 <p align="center" width="100%">
+  <img width="1199" height="599" alt="Seasonal Trends (2)" src="https://github.com/user-attachments/assets/7abed7d5-ec73-4d7e-ac8d-1c3d44fe9b1b" />
+
   <img width="1199" height="599" alt="Seasonal Trends (1)" src="https://github.com/user-attachments/assets/4ccd09fe-a777-4ba5-bc71-59de06aad7a0" />
 </p> 
 
