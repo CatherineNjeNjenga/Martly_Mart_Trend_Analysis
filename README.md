@@ -1,6 +1,7 @@
 # Martly Mart E-Commerce Analysis
 
 ## Company Background
+<img width="845" height="235" alt="martly-mart-logo-poppins" src="https://github.com/user-attachments/assets/b7331929-8d23-45bc-a11c-9998bde813d5" />
 
 <img width="1000" height="235" alt="martly-mart-logo-large" src="https://github.com/user-attachments/assets/42f260c5-8335-4505-b305-8d1b40155de5" />
 
