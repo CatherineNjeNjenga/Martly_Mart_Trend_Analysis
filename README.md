@@ -1,6 +1,8 @@
 # Martly Mart E-Commerce Analysis
 
 ## Company Background
+<img width="1000" height="170" alt="martly-mart-logo-poppins-wide" src="https://github.com/user-attachments/assets/da260eb3-7225-4918-89f7-f783893adc55" />
+
 <img width="845" height="235" alt="martly-mart-logo-poppins" src="https://github.com/user-attachments/assets/b7331929-8d23-45bc-a11c-9998bde813d5" />
 
 Founded in 2013, Martly Mart is a global e-commerce company specializing in every day essentials. Initially focused on selling through its online platform, the company has rapidly grown, attracting customers worldwide and recently launched a free app. The company leverages multiple marketing channels—email campaigns and it's recently launched app to reach its expanding customer base. As the business scales, Martly Mart continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
